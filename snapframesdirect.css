@@ -1,6 +1,131 @@
 #VG_OVERLAY_CONTAINER .vg-text-white{
-    color: #F6A14B!important;
+    color: #f1902f!important;
+    font-size: 22px;
 }
-#VG_OVERLAY_CONTAINER .vg-bg-primary\/80{
-    background-color: white!important;
+
+#VG_OVERLAY_CONTAINER .vg-bg-gradient-to-b{
+    background-color: #065baa !important;
+    background-image: none!important;
+}
+#VG_OVERLAY_CONTAINER .vg-md\:rounded-large{
+    border-radius: 10!important;
+    border: 2px solid #ffffff!important;
+}
+#VG_OVERLAY_CONTAINER .vg-py-unit-3{
+    padding-top: 14px!important;
+    padding-bottom: 14px!important;
+}
+
+#VG_OVERLAY_CONTAINER .vg-opacity-80{
+    color: #f1902f !important;
+    font-weight: 600!important;
+}
+
+#VG_OVERLAY_CONTAINER .vg-message-text-bot--inner p{
+    color: #ffffff!important;
+}
+#VG_OVERLAY_CONTAINER .vg-opacity-80{
+    opacity: 1!important;
+}
+#VG_OVERLAY_CONTAINER .vg-p-unit-1{
+    color: #f1902f!important;
+    background-color: #f1902f!important;
+}
+#VG_OVERLAY_CONTAINER .vg-bg-primary-50{
+    background-color: rgba(255, 255, 255, 0)!important;
+    color: white!  important;
+}
+
+#VG_OVERLAY_CONTAINER .vg-footer-container{
+    background-color: #065baa!important;
+    color: #f1902f!important;
+}
+#VG_OVERLAY_CONTAINER .vg-py-2{
+    margin-right: 10px!important;
+
+    background-color: #ffffff!important;
+    border: 2px;
+}
+
+#VG_OVERLAY_CONTAINER .vg-pb-unit-2{
+    padding-bottom: 0px!important;
+}
+#VG_OVERLAY_CONTAINER input{
+    color: #f1902f!important;
+}
+#VG_OVERLAY_CONTAINER .vg-transition-transform-colors-opacity{
+    background-color: #065baa!important;
+    
+}
+
+@media (max-width: 768px) {
+    #VG_OVERLAY_CONTAINER .vg-p-unit-5 {
+        background-color: #f1902f!important;
+      }
+}
+#VG_OVERLAY_CONTAINER .vg-p-unit-5 {
+    background-color: #f1902f!important;
+}
+#VG_OVERLAY_CONTAINER .vg-text-large{
+    color: #f1902f!important;
+}
+
+#VG_OVERLAY_CONTAINER .vg-md\:border-primary-100{
+    border-radius: 0% ;
+    border: 8px solid #afafaf!important;
+}
+#VG_OVERLAY_CONTAINER .vg-bg-gradient-to-b{
+    border-radius: 0% ;
+    border-color: #065baa!important;
+}
+#VG_OVERLAY_CONTAINER .vg-bg-primary\/80 {
+  border-radius: 0%;
+  border-color: #ffffff !important;
+  padding: 16px !important;
+  align-items: center !important;
+  margin-left: -2px  !important;
+  background-color: white !important;
+
+}
+
+
+#VG_OVERLAY_CONTAINER .vg-w-unit-8{
+    width: 45px!important;
+}
+#VG_OVERLAY_CONTAINER .vg-data-\[loaded\=true\]\:opacity-100[data-loaded=true], #VG_OVERLAY_CONTAINER .vg-data-\[moving\]\:opacity-100[data-moving]{
+    width: 45px!important;
+    height: 45px !important;
+}
+#VG_OVERLAY_CONTAINER .vg-w-unit-10{
+    width: 45px!important;
+    height: 45px!important;
+    color: white !important;
+}
+#VG_OVERLAY_CONTAINER .vg-data-\[hover\=true\]\:opacity-hover[data-hover=true]{
+    color: white !important;
+    background-color: #f1902f !important;
+}
+#VG_OVERLAY_CONTAINER .vg-transition-transform-colors-opacity{
+    background-color: #f1902f !important;
+}
+#VG_OVERLAY_CONTAINER .vg-border-primary-200{
+    background-color: #065baa !important;
+}
+#VG_OVERLAY_CONTAINER .vg-w-unit-4{
+    color: white !important;
+}
+
+#VG_OVERLAY_CONTAINER .vg-opacity-75{
+    margin-right: 6px !important;
+}
+#VG_OVERLAY_CONTAINER .vg-bg-primary-600{
+    font-size: small !important;
+    background-color: #f1902f;
+}
+#VG_OVERLAY_CONTAINER .vg-gap-0{
+    font-size: large !important;
+    font-weight: 900 !important;
+}
+#VG_OVERLAY_CONTAINER .vg-line-break{
+    color: white !important;
 }
